@@ -1,0 +1,11 @@
+E:\Users\LenovoG580\Desktop\PlaceHolderParsingAPI\PlaceHolderParsingAPI.Parsing\bin\Debug\netcoreapp2.1\PlaceHolderParsingAPI.Parsing.deps.json
+E:\Users\LenovoG580\Desktop\PlaceHolderParsingAPI\PlaceHolderParsingAPI.Parsing\bin\Debug\netcoreapp2.1\PlaceHolderParsingAPI.Parsing.dll
+E:\Users\LenovoG580\Desktop\PlaceHolderParsingAPI\PlaceHolderParsingAPI.Parsing\bin\Debug\netcoreapp2.1\PlaceHolderParsingAPI.Parsing.pdb
+E:\Users\LenovoG580\Desktop\PlaceHolderParsingAPI\PlaceHolderParsingAPI.Parsing\bin\Debug\netcoreapp2.1\PlaceHolderParsingAPI.Domain.dll
+E:\Users\LenovoG580\Desktop\PlaceHolderParsingAPI\PlaceHolderParsingAPI.Parsing\bin\Debug\netcoreapp2.1\PlaceHolderParsingAPI.Domain.pdb
+E:\Users\LenovoG580\Desktop\PlaceHolderParsingAPI\PlaceHolderParsingAPI.Parsing\obj\Debug\netcoreapp2.1\PlaceHolderParsingAPI.Parsing.csprojResolveAssemblyReference.cache
+E:\Users\LenovoG580\Desktop\PlaceHolderParsingAPI\PlaceHolderParsingAPI.Parsing\obj\Debug\netcoreapp2.1\PlaceHolderParsingAPI.Parsing.csproj.CoreCompileInputs.cache
+E:\Users\LenovoG580\Desktop\PlaceHolderParsingAPI\PlaceHolderParsingAPI.Parsing\obj\Debug\netcoreapp2.1\PlaceHolderParsingAPI.Parsing.AssemblyInfoInputs.cache
+E:\Users\LenovoG580\Desktop\PlaceHolderParsingAPI\PlaceHolderParsingAPI.Parsing\obj\Debug\netcoreapp2.1\PlaceHolderParsingAPI.Parsing.AssemblyInfo.cs
+E:\Users\LenovoG580\Desktop\PlaceHolderParsingAPI\PlaceHolderParsingAPI.Parsing\obj\Debug\netcoreapp2.1\PlaceHolderParsingAPI.Parsing.dll
+E:\Users\LenovoG580\Desktop\PlaceHolderParsingAPI\PlaceHolderParsingAPI.Parsing\obj\Debug\netcoreapp2.1\PlaceHolderParsingAPI.Parsing.pdb

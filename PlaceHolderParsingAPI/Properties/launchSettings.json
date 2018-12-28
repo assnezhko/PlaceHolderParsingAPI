@@ -1,0 +1,22 @@
+{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iis": {
+      "applicationUrl": "http://localhost/PlaceHolderParsingAPI",
+      "sslPort": 0
+    },
+    "iisExpress": {
+      "applicationUrl": "http://localhost:50960/",
+      "sslPort": 0
+    }
+  },
+  "profiles": {
+    "Запуск": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "api/album/album",
+      "ErrorString": "Additional text encountered after finished reading JSON content: }. Path '', line 12, position 2."
+    }
+  }
+}

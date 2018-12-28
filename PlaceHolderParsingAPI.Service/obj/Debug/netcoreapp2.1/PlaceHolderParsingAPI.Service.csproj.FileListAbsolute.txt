@@ -1,0 +1,15 @@
+E:\Users\LenovoG580\Desktop\PlaceHolderParsingAPI\PlaceHolderParsingAPI.Service\bin\Debug\netcoreapp2.1\PlaceHolderParsingAPI.Service.deps.json
+E:\Users\LenovoG580\Desktop\PlaceHolderParsingAPI\PlaceHolderParsingAPI.Service\bin\Debug\netcoreapp2.1\PlaceHolderParsingAPI.Service.dll
+E:\Users\LenovoG580\Desktop\PlaceHolderParsingAPI\PlaceHolderParsingAPI.Service\bin\Debug\netcoreapp2.1\PlaceHolderParsingAPI.Service.pdb
+E:\Users\LenovoG580\Desktop\PlaceHolderParsingAPI\PlaceHolderParsingAPI.Service\bin\Debug\netcoreapp2.1\PlaceHolderParsingAPI.Domain.dll
+E:\Users\LenovoG580\Desktop\PlaceHolderParsingAPI\PlaceHolderParsingAPI.Service\bin\Debug\netcoreapp2.1\PlaceHolderParsingAPI.Parsing.dll
+E:\Users\LenovoG580\Desktop\PlaceHolderParsingAPI\PlaceHolderParsingAPI.Service\bin\Debug\netcoreapp2.1\PlaceHolderParsingAPI.Utils.dll
+E:\Users\LenovoG580\Desktop\PlaceHolderParsingAPI\PlaceHolderParsingAPI.Service\bin\Debug\netcoreapp2.1\PlaceHolderParsingAPI.Domain.pdb
+E:\Users\LenovoG580\Desktop\PlaceHolderParsingAPI\PlaceHolderParsingAPI.Service\bin\Debug\netcoreapp2.1\PlaceHolderParsingAPI.Parsing.pdb
+E:\Users\LenovoG580\Desktop\PlaceHolderParsingAPI\PlaceHolderParsingAPI.Service\bin\Debug\netcoreapp2.1\PlaceHolderParsingAPI.Utils.pdb
+E:\Users\LenovoG580\Desktop\PlaceHolderParsingAPI\PlaceHolderParsingAPI.Service\obj\Debug\netcoreapp2.1\PlaceHolderParsingAPI.Service.csprojResolveAssemblyReference.cache
+E:\Users\LenovoG580\Desktop\PlaceHolderParsingAPI\PlaceHolderParsingAPI.Service\obj\Debug\netcoreapp2.1\PlaceHolderParsingAPI.Service.csproj.CoreCompileInputs.cache
+E:\Users\LenovoG580\Desktop\PlaceHolderParsingAPI\PlaceHolderParsingAPI.Service\obj\Debug\netcoreapp2.1\PlaceHolderParsingAPI.Service.AssemblyInfoInputs.cache
+E:\Users\LenovoG580\Desktop\PlaceHolderParsingAPI\PlaceHolderParsingAPI.Service\obj\Debug\netcoreapp2.1\PlaceHolderParsingAPI.Service.AssemblyInfo.cs
+E:\Users\LenovoG580\Desktop\PlaceHolderParsingAPI\PlaceHolderParsingAPI.Service\obj\Debug\netcoreapp2.1\PlaceHolderParsingAPI.Service.dll
+E:\Users\LenovoG580\Desktop\PlaceHolderParsingAPI\PlaceHolderParsingAPI.Service\obj\Debug\netcoreapp2.1\PlaceHolderParsingAPI.Service.pdb
